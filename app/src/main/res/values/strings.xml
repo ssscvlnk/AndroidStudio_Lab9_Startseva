@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab9_Startseva</string>
+    <string name="city1">Амстердам</string>
+    <string name="city2">Киото</string>
+    <string name="city3">Москва</string>
+    <string name="city4">Париж</string>
+    <string name="city5">Прага</string>
+    <string name="city6">Рим</string>
+    <string name="city7">Сеул</string>
+    <string name="city8">Санкт-Петербург</string>
+    <string name="city9">Стамбул</string>
+    <string name="city10">Венеция</string>
+    <string name="city1_description">город каналов, велосипедов и исторических зданий с характерными «косыми» фасадами.</string>
+    <string name="city2_description"> древняя столица Японии, знаменитая тысячами храмов, традиционными чайными церемониями и садами дзэн.</string>
+    <string name="city3_description">столица России, где соседствуют Красная площадь с Кремлём, современные небоскрёбы и просторные парки.</string>
+    <string name="city4_description">«город света», известный Эйфелевой башней, Лувром и атмосферой утончённой романтики.</string>
+    <string name="city5_description">средневековый город с готической архитектурой, Карловым мостом и живописной панорамой над Влтавой.</string>
+    <string name="city6_description">«вечный город», музей под открытым небом с Колизеем, Пантеоном и наследием Римской империи.</string>
+    <string name="city7_description">динамичная столица Южной Кореи, где традиционные дворцы соседствуют с передовыми технологиями и яркими районами ночной жизни.</string>
+    <string name="city8_description">культурная столица России, прозванная «Северной Венецией» за обилие каналов и дворцов эпохи империи.</string>
+    <string name="city9_description">уникальный мегаполис на стыке Европы и Азии, где встречаются минареты мечетей и купола древних соборов.</string>
+    <string name="city10_description">сказочный город на воде с каналами вместо улиц, гондолами и архитектурой эпохи Возрождения.</string>
+</resources>
